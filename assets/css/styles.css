@@ -28,6 +28,6 @@ html,body{
     margin-left: -75px;
 }
 
-#computadora-cartas #jugador-cartas{
-    height: 250px;
+#computer-cards #player-cards{
+    height: 50%;
 }
