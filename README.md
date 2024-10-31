@@ -1,4 +1,3 @@
-
 # BlackJack
 
 This is an implementation of the game BlackJack.
