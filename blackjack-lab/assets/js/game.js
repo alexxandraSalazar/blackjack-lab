@@ -1,4 +1,6 @@
 import '../css/styles.css';
+import '../js/underscore-min.js';
+
 
 // Global variables
 let deck = [];
