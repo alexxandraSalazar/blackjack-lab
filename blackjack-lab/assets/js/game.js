@@ -1,5 +1,5 @@
 import '../css/styles.css';
-import underscore-min.js;
+import _ from './underscore-min.js';
 
 
 // Global variables
