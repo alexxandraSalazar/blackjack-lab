@@ -29,7 +29,7 @@
     <div class="row container">
         <div class="col">
             <h2>Jugador 1 - <small>0</small></h2>
-            <div id="player-cards">
+            <div id="player-cards" class="divCards">
                 <!-- <img class="cards" src="assets\cartas\2C.png" alt="cards"> -->
             </div>
         </div>
@@ -37,7 +37,7 @@
     
     <div class="row container mt-4">
         <h2>Computadora 1 - <small>0</small></h2>
-            <div id="computer-cards">
+            <div id="computer-cards" class="divCards">
                 <!-- <img class="cards" src="assets\cartas\2C.png" alt="cards"> -->
             </div>
         </div>
@@ -46,6 +46,12 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <!-- <script src="./assets/js/underscore-min.js"></script> -->
     <script type="module" src="./assets/js/game.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            myModule.newGame();
+        });
+    </script>
     
 </body>
 </html>
