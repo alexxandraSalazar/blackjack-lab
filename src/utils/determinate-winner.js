@@ -9,6 +9,6 @@ export const determinateWinner = (minPoints, computerPoints) => {
     } else if (computerPoints > minPoints && computerPoints <= 21) {
         return "Computer wins";
     } else {
-        return "You win!";
+        return "Computer wins!";
     }
 };
