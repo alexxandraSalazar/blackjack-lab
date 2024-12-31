@@ -52,5 +52,5 @@ Start the server
 
 ## Authors
 
-- [Alexandra Salazar 💚](https://www.github.com/alexxandraSalazar)
+- [Alexandra Salazar 💛](https://www.github.com/alexxandraSalazar)
 
